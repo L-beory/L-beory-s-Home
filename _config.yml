@@ -7,7 +7,7 @@ url: "https://l-beory.github.io/L-beory-s-Home/" # the base hostname & protocol 
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
+username: L-beory
 user_description: Senior UI/UX Designer.
 disqus_username: disqus_username
 
@@ -38,6 +38,8 @@ links:
     url: /about/
   - title: Contact
     url: /contact/
+  - title: 胶卷的缤纷世界
+    url: "http://yqlizeao.55555.io/"
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
