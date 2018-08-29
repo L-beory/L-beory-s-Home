@@ -1,1 +1,43 @@
-theme: jekyll-theme-cayman
+# Site Settings
+title: 不欺暗室
+email: 459804198@qq.com
+description: Be scrupulously honest even when there is no one around.
+baseurl: "/L-beory-s-Home" # the subpath of your site, e.g. /blog
+url: "https://l-beory.github.io/L-beory-s-Home/" # the base hostname & protocol for your site
+google_analytics: "UA-XXXXXXXX-X"
+
+# User Settings
+username: Jekflix
+user_description: Senior UI/UX Designer.
+disqus_username: disqus_username
+
+# Social Media
+# Remove the item if you don't need it
+github_username: L-beory
+facebook_username: facebook_username
+twitter_username: twitter_username
+instagram_username: instagram_username
+linkedin_username: linkedin_username
+medium_username: medium_username
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# Plugins
+gems:
+  - jemoji
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Contact
+    url: /contact/
+
+# Exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
